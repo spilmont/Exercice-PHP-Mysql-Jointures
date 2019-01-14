@@ -1,8 +1,8 @@
 Consignes :
 
-- Dans le dossier sql, j'ai ajouté un fichier mysql workbench, ouvrez le en utilisant mysql workbench
-- En analysant le diagramme uml des tables, reproduire ces tables en utilisant phpmyadmin
-- Creer un script php qui permet d'afficher les éléves et les informations de l'éléve dans une seule et même requete sql
+Dans le dossier sql, j'ai ajouté un fichier mysql workbench, ouvrez le en utilisant mysql workbench
+ En analysant le diagramme uml des tables, reproduire ces tables en utilisant phpmyadmin
+ Creer un script php qui permet d'afficher les éléves et les informations de l'éléve dans une seule et même requete sql
 - Lister les compétences de l'éléve et son niveau dans cette compétence ainsi que son niveau auto évalué.
 - Vous afficherez le niveau d'une compétence sous la forme d'un diagramme polaire.
 - Vous ajouterez un second diagramme polaire par dessus le premier pour afficher le niveau auto évalué dans une compétence
